@@ -1,6 +1,6 @@
 package com.kdt.lecture.repository;
 
-import com.kdt.lecture.repository.enitity.Customer;
+import com.kdt.lecture.repository.domain.Customer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.jdbc.core.JdbcTemplate;

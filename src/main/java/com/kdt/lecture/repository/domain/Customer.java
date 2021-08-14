@@ -1,4 +1,4 @@
-package com.kdt.lecture.repository.enitity;
+package com.kdt.lecture.repository.domain;
 
 public class Customer {
     private long id;

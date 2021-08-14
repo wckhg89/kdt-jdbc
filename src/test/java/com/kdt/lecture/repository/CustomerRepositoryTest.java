@@ -1,6 +1,6 @@
 package com.kdt.lecture.repository;
 
-import com.kdt.lecture.repository.enitity.Customer;
+import com.kdt.lecture.repository.domain.Customer;
 import org.assertj.core.util.Lists;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
